@@ -1,0 +1,1 @@
+ 2phpXÛhr*plugin-name/includes/class-plugin-name.php

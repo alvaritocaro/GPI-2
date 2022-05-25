@@ -2,7 +2,7 @@
 
 # token - 3973acf4dd9cda51da979bcf78b75e4d97bc57e4
 
-cd WordPress-master
+cd WordPress-Plugin-Boilerplate-master
 
 export PATH=$PATH:/home/alumno/Descargas/sonar-scanner-4.7.0.2747-linux/bin
 
@@ -15,6 +15,6 @@ sonar-scanner \
   -Dsonar.sources=. \
   -Dsonar.host.url=http://localhost:9000 \
   -Dsonar.login=3973acf4dd9cda51da979bcf78b75e4d97bc57e4 \
-  -Dsonar.java.binaries=target/classes -X
+  -Dsonar.java.binaries=. -X
   
   mvn clean package

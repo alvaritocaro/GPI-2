@@ -1,0 +1,1 @@
+ 2cssXhr-plugin-name/public/css/plugin-name-public.css

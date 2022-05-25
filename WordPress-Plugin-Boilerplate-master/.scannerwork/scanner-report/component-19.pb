@@ -1,0 +1,1 @@
+ 2phpX%hr6plugin-name/includes/class-plugin-name-deactivator.php

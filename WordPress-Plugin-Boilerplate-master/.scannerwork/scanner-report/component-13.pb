@@ -1,0 +1,1 @@
+ 2phpXhhr-plugin-name/admin/class-plugin-name-admin.php

@@ -1,0 +1,1 @@
+ 2phpX%hr4plugin-name/includes/class-plugin-name-activator.php

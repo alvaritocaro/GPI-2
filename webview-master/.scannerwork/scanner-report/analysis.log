@@ -18,7 +18,7 @@ SonarQube plugins:
   - Configuration detection fot Code Quality and Security 1.2.0.267 (config)
 Global server settings:
   - sonar.core.id=147B411E-AYDTEri0eM9Z8DrbSk7-
-  - sonar.core.startTime=2022-05-25T09:45:28+0200
+  - sonar.core.startTime=2022-05-25T10:45:55+0200
   - sonar.forceAuthentication=true
 Project server settings:
 Project scanner properties:

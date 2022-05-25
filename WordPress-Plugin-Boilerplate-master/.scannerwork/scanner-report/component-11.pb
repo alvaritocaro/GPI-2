@@ -1,0 +1,1 @@
+ 2jsX!hr+plugin-name/public/js/plugin-name-public.js

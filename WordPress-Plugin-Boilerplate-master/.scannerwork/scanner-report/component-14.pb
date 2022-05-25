@@ -1,0 +1,1 @@
+ 2cssXhr+plugin-name/admin/css/plugin-name-admin.css

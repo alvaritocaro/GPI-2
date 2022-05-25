@@ -1,0 +1,1 @@
+ 2jsX!hr)plugin-name/admin/js/plugin-name-admin.js
